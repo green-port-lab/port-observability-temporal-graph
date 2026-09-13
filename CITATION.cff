@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Temporal-graph observability model of a port water area"
+abstract: "Reference implementation of a temporal-graph model for assessing the observability of a port water area within the green port concept."
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-09-13"
+license: MIT
+keywords:
+  - observability
+  - temporal graph
+  - green port
+  - environmental monitoring
+  - age of information
+preferred-citation:
+  type: article
+  title: "Temporal graph model of port water area observability in the context of the green port concept"
+  authors:
+    - family-names: "[Surname]"
+      given-names: "[Given name]"
+  year: 2026
+  journal: "[Journal]"

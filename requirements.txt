@@ -1,0 +1,3 @@
+# The model itself needs the standard library only.
+# Matplotlib is required to regenerate the figures.
+matplotlib>=3.5

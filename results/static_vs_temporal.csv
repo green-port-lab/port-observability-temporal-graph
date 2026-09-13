@@ -1,0 +1,4 @@
+configuration,static mean (60-115),temporal mean (60-115),mean overestimate,max pointwise overestimate,"at t, min"
+A,0.192,0.192,0.000,0.000,0
+B,0.321,0.288,0.033,0.100,90
+C,0.482,0.424,0.058,0.215,100

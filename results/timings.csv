@@ -1,0 +1,6 @@
+operation,"min, ms","median, ms"
+"single run, configuration A",1.2,1.3
+"single run, configuration B",2.3,2.4
+"single run, configuration C",5.0,5.2
+"criticality, 15 runs",64.1,65.0
+"static aggregated graph, configuration C",210.6,217.3
